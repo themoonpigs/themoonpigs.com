@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="423fda40-fbd2-4865-8450-b5ab59e5390f" name="Default Changelist" comment="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 2fd1677e">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="548a3552-15e4-4d91-88f7-845f68d1e1a8" name="Revert &quot;first commit&quot;" comment="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 2fd1677e" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3962e57cde857ccad69a708fb6be404aca88bc34" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="1f5674c7-b8ba-44e6-ba1e-180e69ba7d74" />
+  </component>
+  <component name="ProjectId" id="1scos1BdkkF1axMTWJR7vTmjeIX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="423fda40-fbd2-4865-8450-b5ab59e5390f" name="Default Changelist" comment="" />
+      <created>1621181441992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621181441992</updated>
+      <workItem from="1621181444200" duration="13197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 2fd1677e" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 2fd1677e" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="85" y="99" width="1298" height="825" key="CommitChangelistDialog2" timestamp="1621227092932">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="85" y="99" width="1298" height="825" key="CommitChangelistDialog2/0.0.1500.1000@0.0.1500.1000" timestamp="1621227092932" />
+    <state x="93" y="93" width="1313" height="813" key="DiffContextDialog" timestamp="1621227215581">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="93" y="93" width="1313" height="813" key="DiffContextDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1621227215581" />
+    <state x="403" y="281" width="662" height="477" key="EditFileWatcherDialog" timestamp="1621181953095">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="403" y="281" width="662" height="477" key="EditFileWatcherDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1621181953095" />
+    <state width="1477" height="268" key="GridCell.Tab.0.bottom" timestamp="1621181586820">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1477" height="268" key="GridCell.Tab.0.bottom/0.0.1500.1000@0.0.1500.1000" timestamp="1621181586820" />
+    <state width="1477" height="268" key="GridCell.Tab.0.center" timestamp="1621181586817">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1477" height="268" key="GridCell.Tab.0.center/0.0.1500.1000@0.0.1500.1000" timestamp="1621181586817" />
+    <state width="1477" height="268" key="GridCell.Tab.0.left" timestamp="1621181586817">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1477" height="268" key="GridCell.Tab.0.left/0.0.1500.1000@0.0.1500.1000" timestamp="1621181586817" />
+    <state width="1477" height="268" key="GridCell.Tab.0.right" timestamp="1621181586819">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1477" height="268" key="GridCell.Tab.0.right/0.0.1500.1000@0.0.1500.1000" timestamp="1621181586819" />
+    <state x="547" y="203" key="RollbackChangesDialog" timestamp="1621226684544">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="547" y="203" key="RollbackChangesDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1621226684544" />
+    <state x="236" y="148" key="SettingsEditor" timestamp="1621228009692">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="236" y="148" key="SettingsEditor/0.0.1500.1000@0.0.1500.1000" timestamp="1621228009692" />
+    <state x="515" y="247" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1621226987432">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="515" y="247" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1621226987432" />
+    <state x="516" y="402" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1621226030857">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="516" y="402" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1621226030857" />
+    <state x="414" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1621225606814">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="414" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1500.1000@0.0.1500.1000" timestamp="1621225606814" />
+  </component>
+</project>
