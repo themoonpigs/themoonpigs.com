@@ -13,8 +13,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="423fda40-fbd2-4865-8450-b5ab59e5390f" name="Default Changelist" comment="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 2fd1677e">
+    <list default="true" id="423fda40-fbd2-4865-8450-b5ab59e5390f" name="Default Changelist" comment="first">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <list id="548a3552-15e4-4d91-88f7-845f68d1e1a8" name="Revert &quot;first commit&quot;" comment="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 2fd1677e" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +26,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Mike M &lt;hi@themoonpigs.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="3962e57cde857ccad69a708fb6be404aca88bc34" />
@@ -46,7 +54,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -56,8 +64,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621181441992</updated>
-      <workItem from="1621181444200" duration="13197000" />
+      <workItem from="1621181444200" duration="17932000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1621228347319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621228347320</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,14 +93,17 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 2fd1677e" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 2fd1677e" />
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="85" y="99" width="1298" height="825" key="CommitChangelistDialog2" timestamp="1621227092932">
+    <state x="85" y="99" width="1298" height="825" key="CommitChangelistDialog2" timestamp="1621228485424">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="85" y="99" width="1298" height="825" key="CommitChangelistDialog2/0.0.1500.1000@0.0.1500.1000" timestamp="1621227092932" />
+    <state x="85" y="99" width="1298" height="825" key="CommitChangelistDialog2/0.0.1500.1000@0.0.1500.1000" timestamp="1621228485424" />
     <state x="93" y="93" width="1313" height="813" key="DiffContextDialog" timestamp="1621227215581">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
@@ -113,10 +132,14 @@
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
     <state x="547" y="203" key="RollbackChangesDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1621226684544" />
-    <state x="236" y="148" key="SettingsEditor" timestamp="1621228009692">
+    <state x="236" y="148" key="SettingsEditor" timestamp="1621230769831">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="236" y="148" key="SettingsEditor/0.0.1500.1000@0.0.1500.1000" timestamp="1621228009692" />
+    <state x="236" y="148" key="SettingsEditor/0.0.1500.1000@0.0.1500.1000" timestamp="1621230769831" />
+    <state x="343" y="233" key="Vcs.Push.Dialog.v2" timestamp="1621228490322">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="343" y="233" key="Vcs.Push.Dialog.v2/0.0.1500.1000@0.0.1500.1000" timestamp="1621228490322" />
     <state x="515" y="247" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1621226987432">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
@@ -125,6 +148,10 @@
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
     <state x="516" y="402" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1621226030857" />
+    <state x="409" y="232" key="run.anything.popup" timestamp="1621233397632">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="409" y="232" key="run.anything.popup/0.0.1500.1000@0.0.1500.1000" timestamp="1621233397632" />
     <state x="414" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1621225606814">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
